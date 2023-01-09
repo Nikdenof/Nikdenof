@@ -18,13 +18,12 @@ Hi there, I'm Nikolai, a Linux user and experienced Python developer with a pass
 
 ## Education
 
-- Bachelor's degree in Computer Science (or relevant field)
+- Specialist Degree in Aerospace Engineering (2017-2023)
 
 ## Experience
 
-- Software Developer at XYZ Company (20XX-present)
-- Intern at ABC Company (20XX-20XX)
+- Junior VR Developer at BSTU VR Lab (2022-present)
 
 I am currently learning natural language processing with machine learning and deep learning, as well as improving my skills in machine learning deployment and Telegram bot development.
 
-Feel free to check out my [LinkedIn profile](https://linkedin.com/in/nikolai-denisov-830b0025b) to get in touch with me and learn more about my experience. You can also check out my [GitHub profile](https://github.com/myusername) to see some of my work.
+Feel free to check out my [LinkedIn profile](https://linkedin.com/in/nikolai-denisov-830b0025b) to get in touch with me and learn more about my experience. You can also check out my [GitHub profile](https://github.com/Nikdenof) to see some of my work.
